@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CalculatorVincentJake</label>
+		<id>2</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>CalculatorVincentJake.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>CalculatorVincentJake.jcp</path>
+		</project>
+	</projects>
+</workspace>
